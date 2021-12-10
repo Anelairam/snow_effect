@@ -18,28 +18,9 @@ html {
 
 @keyframes snowfall {
     0%{
-        background-position: 0 0, 0 0, 0 0;
+        background-position: 0 0, 0 0, 0 0, 0 0;
     }
     100%{
         background-position: -500px 1000px, -400px 400px, 300px 700px;
     }
 }
-
-/* .snow_back {
-    display: grid;
-    place-items: center;
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    background-image: url("3.png");
-    animation: snowfall_back 20s linear infinite reverse;
-}
-
-@keyframes snowfall_back {
-    0%{
-        background-position: 0 0, 0 0, 0 0;
-    }
-    100%{
-        background-position: 300px 300px, 400px 400px, 1000px 500px;
-    }
-} */
