@@ -4,7 +4,7 @@ html {
     overflow: hidden;
 }
 
-.snow_front {
+.snow_top {
     display: grid;
     place-items: center;
     width: 100%;
